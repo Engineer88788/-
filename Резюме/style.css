@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding-top: 80px;
+}
+p{
+   color:rgb(255, 255, 255)
+}
+.container {
+    position: absolute;
+    text-align: left;
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    padding-top: 0px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 0, 0);
+    padding-bottom: 100px;
+}
+h2 {
+    color: rgb(255, 0, 0);
+}
+ul{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+h3{
+    color: rgb(255, 0, 0);
+}
