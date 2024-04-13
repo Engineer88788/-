@@ -1,0 +1,133 @@
+@import url(https://fonts.googleapis.com/css?family=Ruslan+Display:regular);
+.ruslan-shrift {
+    font-family: "Ruslan-shrift", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+  }
+  
+  
+  
+ body {
+    background-image: url("https://newses.cgtn.com/n/BfJEA-BIA-IA/BJDbdcA.jpg");
+    background-repeat: no-repeat;
+    object-fit: cover;
+    margin: 0px;
+    padding: 0;
+ }
+    .header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+  
+  .header h1 {
+    margin-right: 10px;
+    color: rgb(0, 0, 0);
+  }
+  
+  .content {
+    color: rgb(16, 211, 136);
+  }
+  
+  .ticker {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    background-color: #f1f1f12d;
+    margin: 10px;
+    padding: 15px;
+    font-size: 50px;
+    font-weight: bold;
+    border-radius: 10px;
+  }
+  
+  .menu {
+    border: 2px solid transparent;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 0px;
+    width: 200px;
+    background-color: rgba(99, 99, 99, 0.747);
+  }
+  
+  .menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu li {
+    margin-bottom: 10px;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: antiquewhite;
+  }
+  
+  .menu a:hover {
+    color: #fff;
+    background-color: #333;
+  }
+  
+  .menu2 {
+    border: 2px solid transparent;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 0px;
+    width: 1850px;
+    background-color: rgba(99, 99, 99, 0.518);
+    overflow: auto;
+    color: rgb(255, 172, 64);
+    font-size: 150%;
+  }
+  
+  
+  .container {
+    position: relative;
+    background-image: url("https://vsegda-pomnim.com/uploads/posts/2022-04/1651017204_36-vsegda-pomnim-com-p-more-krim-lastochkino-gnezdo-foto-36.jpg");
+  }
+  
+
+  .tour1 {
+    color: rgb(207, 222, 0);
+    border: 2px solid transparent;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    width: 700px;
+    height: 350px;
+    background-color: rgba(99, 99, 99, 0.705);
+    overflow: auto;
+    position: absolute;
+    top: 380px;
+    left: 960px;
+    z-index: 2;
+    font-size: 180%;
+  }
+  
+  
+  .tour2 {
+    color: rgb(235, 235, 168);
+    border: 2px solid transparent;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    width: 700px;
+    height: 460px;
+    background-color: rgba(99, 99, 99, 0.747);
+    overflow: auto;
+    position: absolute;
+    top: 300px;
+    left: 0;
+    z-index: 2;
+  }
+  
+
+  
+
+  
+  

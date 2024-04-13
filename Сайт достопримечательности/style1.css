@@ -1,0 +1,24 @@
+.container{
+background-image: url("https://binomen.ru/photo/uploads/posts/2024-01/1706304712_binomen-ru-p-natsionalnii-park-kurshskaya-kosa-pinteres-7.jpg");
+}
+.tour2 {
+    color: rgb(243, 243, 72);
+    border: 2px solid transparent;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    width: 700px;
+    height: 460px;
+    background-color: rgba(99, 99, 99, 0.158);
+    overflow: auto;
+    position: absolute;
+    top: 10px;
+    left: 950px;
+    z-index: 2;
+  }
+  body{
+    font-size: 180%;
+  }
+  li{
+    color: rgb(53, 210, 22);
+  }
